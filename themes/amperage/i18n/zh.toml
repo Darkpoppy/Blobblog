@@ -1,0 +1,42 @@
+[home]
+other = "家"
+[notFound]
+other = "找不到页面抱歉"
+[search]
+other = "搜索"
+[goBackHome]
+other = "返回首页"
+[by]
+other = "通过"
+[tags]
+other = "标签"
+[share]
+other = "分享内容"
+[shareFacebook]
+other = "分享到 Facebook"
+[shareTwitter]
+other = "分享到 Twitter"
+[shareLinkedin]
+other = "分享到 Linkedin"
+[sharePinterest]
+other = "分享到 Pinterest"
+[toc]
+other = "目录"
+[related]
+other = "相关读物 📖"
+[comments]
+other = "发表评论!  💬"
+[months]
+other = "月"
+[published]
+other = "{{.Day}} {{.Month}} {{.Year}}"
+[next]
+other = "下一个"
+[previous]
+other = "以前"
+[noAd]
+other = "没有适合您的广告！"
+[keepReading]
+other = "继续阅读 ..."
+[authorCta]
+other = "如果您喜欢它，请分享和评论！"
